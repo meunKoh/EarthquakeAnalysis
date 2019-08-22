@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=TitleAndDepthComparator
-comment0.text=\n\ Compare\ the\ titles\ in\ alphabetical\ order\ and\ break\ ties\ by\ depth.\n\ \n\ @author\ (MyoungEun\ Koh)\ \n\ @version\ (2019-08-08)\n
-comment1.params=q1\ q2
-comment1.target=int\ compare(QuakeEntry,\ QuakeEntry)
-numComments=2
