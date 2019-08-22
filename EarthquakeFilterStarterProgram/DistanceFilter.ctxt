@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DistanceFilter
+comment0.text=\n\ This\ class\ should\ include\ private\ instance\ variables\ for\ a\ location\ and\ a\ maximum\ distance,\ \n\ a\ constructor\ to\ initialize\ those\ variables,\ and\ a\ satisfies\ method\ that\ returns\ true\ \n\ if\ a\ QuakeEntry\u2019s\ distance\ from\ the\ given\ location\ is\ less\ than\ the\ specified\ maximum\ distance.\ \n\ Otherwise\ it\ should\ return\ false.\n\ \n\ @author\ (MyoungEun\ Koh)\ \n\ @version\ (2019-08-04)\n
+comment1.params=from\ max
+comment1.target=DistanceFilter(Location,\ double)
+comment2.params=qe
+comment2.target=boolean\ satisfies(QuakeEntry)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+numComments=4

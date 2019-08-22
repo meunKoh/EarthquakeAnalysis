@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MagnitudeFilter
+comment0.text=\n\ This\ class\ includes\ private\ instance\ variables\ for\ a\ minimum\ and\ maximum\ magnitude,\ \n\ a\ constructor\ to\ initialize\ those\ variables,\ and\ a\ satisfies\ method\ that\ returns\ true\ \n\ if\ a\ QuakeEntry\u2019s\ magnitude\ is\ between\ the\ minimum\ and\ maximum\ magnitudes,\ \n\ or\ equal\ to\ one\ of\ them.\ Otherwise\ it\ should\ return\ false.\n\ \n\ @author\ (MyoungEun\ Koh)\ \n\ @version\ (2019-08-04)\n
+comment1.params=min\ max
+comment1.target=MagnitudeFilter(double,\ double)
+comment2.params=qe
+comment2.target=boolean\ satisfies(QuakeEntry)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+numComments=4

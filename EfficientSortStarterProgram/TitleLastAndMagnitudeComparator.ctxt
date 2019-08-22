@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TitleLastAndMagnitudeComparator
+comment0.text=\n\ sort\ earthquakes\ by\ the\ last\ word\ in\ their\ title\ first\ and\ break\ ties\ by\ magnitude.\n\ \n\ @author\ (MyoungEun\ Koh)\ \n\ @version\ (2019-08-08)\n
+comment1.params=q1\ q2
+comment1.target=int\ compare(QuakeEntry,\ QuakeEntry)
+numComments=2

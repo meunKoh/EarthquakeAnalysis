@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MatchAllFilter
+comment0.text=\n\ This\ class\ has\ a\ private\ ArrayList\ of\ Filters\ that\ is\ created\ in\ the\ constructor\ that\ has\ no\ parameters.\ \n\ This\ class\ has\ two\ methods,\ \n\ 1)\ a\ void\ method\ named\ addFilter\ with\ one\ Filter\ parameter\ that\ adds\ the\ Filter\ to\ its\ private\ ArrayList\n\ 2)\ a\ method\ named\ satisfies\ that\ has\ one\ QuakeEntry\ parameter\ and\ returns\ true\ \n\ if\ the\ QuakeEntry\ satisfies\ all\ the\ filter\ conditions,\ otherwise\ it\ returns\ false.\n\ \n\ @author\ (MyoungEun\ Koh)\ \n\ @version\ (2019-08-04)\n
+comment1.params=
+comment1.target=MatchAllFilter()
+comment2.params=f
+comment2.target=void\ addFilter(Filter)
+comment3.params=qe
+comment3.target=boolean\ satisfies(QuakeEntry)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+numComments=5
